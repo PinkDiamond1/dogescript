@@ -15,7 +15,7 @@
   "dependencies": {
     "js-beautify": "^1.13.0",
     "optimist": "^0.6.1",
-    "xhr": "^2.5.0"
+    "xhr": "^2.6.0"
   },
   "bin": "./dist/dogescript.bin.js",
   "scripts": {
