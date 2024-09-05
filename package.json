@@ -13,7 +13,7 @@
   "author": "Zach Bruggeman <zachb@diy.org>",
   "license": "MIT",
   "dependencies": {
-    "js-beautify": "^1.13.0",
+    "js-beautify": "^1.14.9",
     "optimist": "^0.6.1",
     "xhr": "^2.5.0"
   },
